@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\DrinkGraph.h(61,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\DrinkGraph.h(133,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\DrinkGraph.h(201,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\DrinkGraph.h(221,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\DrinkGraph.h(254,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\main.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\main.cpp(283,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\binaryTreeDrinks.h(322,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\binaryTreeDrinks.h(268): message : while compiling class template member function 'void BinaryTreeDrinks<Beer>::populateTree(void)'
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\binaryTreeDrinks.h(42): message : see reference to function template instantiation 'void BinaryTreeDrinks<Beer>::populateTree(void)' being compiled
+C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\CSC161_aVeronda_finalProject\main.cpp(29): message : see reference to class template instantiation 'BinaryTreeDrinks<Beer>' being compiled
+  CSC161_aVeronda_finalProject.vcxproj -> C:\Users\Anthony\source\repos\CSC161_aVeronda_finalProject\Debug\CSC161_aVeronda_finalProject.exe

@@ -1,0 +1,2 @@
+** TODO: function that appends from previous session.txt to this file
+** figure out naming convention

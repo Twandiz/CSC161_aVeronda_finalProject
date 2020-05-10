@@ -1,0 +1,11 @@
+** Store drink values, format: ^ = beer, & = wine, % = liquor;  only beer for now
+** Line entry format:_ABV_Name_typeOfBeer_hoppinessValue_darknessValue_producer_microbrewStatus;
+** convert to permanent database in future
+** first entry must start with exclamation point
+** must be in 00.0 ABV
+
+
+!04.3_Bud Light_Light Beer_0_0_Anheiser Busch_0_0_0_
+06.8_Sad Panda_Imperial Stout_2_10_Horse & Dragon_1_0_0_
+08.2_Space Dust_IPA_10_2_Elysian Brewing Company_1_0_0_
+05.3_90 Shilling_Scottish Ale_4_6_Odell Brewing Company_1_0_0_

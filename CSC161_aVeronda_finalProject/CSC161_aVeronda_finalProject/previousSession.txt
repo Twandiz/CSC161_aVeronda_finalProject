@@ -1,0 +1,3 @@
+** list of drinks consumed durring session, drink.removeDrink will write to this file, deconstructor will write rest of session of data
+** need function to write totallity of data to previousSessionsList, should be deleted by said funtion
+
